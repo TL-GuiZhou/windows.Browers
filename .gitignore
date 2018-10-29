@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/Browsers
+/Browsers.cef.winform/bin/x86/Debug
+/Browsers.cef.winform/obj
+/Browsers.cef.Wpf/bin/x86/Debug
+/Browsers.cef.Wpf/obj
+/Browsers.Firefox.winform/obj/Debug
+/Browsers.Firefox.winform/bin/Debug
+/Browsers.miniblink/obj/Debug
+/Browsers.miniblink/Properties/AssemblyInfo.cs
+/Browsers.miniblink/bin/Debug
+/Browsers.miniblink.winfrom/bin/Debug
+/Browsers.miniblink.winfrom/obj/Debug
+/packages
